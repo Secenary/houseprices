@@ -99,7 +99,7 @@ The generated prediction file `submission.csv` meets submission requirements (se
 
 #### Kaggle Evaluation Results
 
-![](E:\test result.png)
+![](https://github.com/Secenary/houseprices/blob/main/test%20result.png?raw=true)
 
 ### Experiment Analysis
 
